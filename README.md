@@ -11,11 +11,6 @@ Brief summary of my repositories:
 - [Computer Science - Projects](https://github.com/alvarosf07/computer-science-projects) -> personal computer science applications and projects
 
 
-
-Get in touch: 
-- 
-
-
 <!--
 **alvarosf07/alvarosf07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
