@@ -6,7 +6,7 @@ Most of my projects have three aims: i) first to keep my mind active by learning
 
 Brief summary of my repositories:
 - [Astrophysics Almanack](https://github.com/alvarosf07/astrophysics-almanack) -> non-curated collection of problems and codes related to astrophysics, orbital mechanics, and rocket science
-- [Math, Probability & Statistics](https://github.com/alvarosf07/math-probability-statistics-almanack) -> non-curated collection of math, probability and statistics exercises and applications
+- [Math, Probability & Statistics Almanack](https://github.com/alvarosf07/math-probability-statistics-almanack) -> non-curated collection of math, probability and statistics exercises and applications
 - [Computer Science - DSA](https://github.com/alvarosf07/computer-science-DSA) -> organized collection of problems and coding exercises about Data Types, Data Structures and Algorithms
 - [Computer Science - Projects](https://github.com/alvarosf07/computer-science-projects) -> personal computer science projects/applications (mostly developed during my bachelors/masters)
 
