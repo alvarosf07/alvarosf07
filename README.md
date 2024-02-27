@@ -8,7 +8,7 @@ Brief summary of my repositories:
 - [Astrophysics Almanack](https://github.com/alvarosf07/astrophysics-almanack) -> problems and codes related to astrophysics, orbital mechanics, and rocket science
 - [Math, Probability & Statistics Almanack](https://github.com/alvarosf07/math-probability-statistics-almanack) -> non-curated collection of math, probability and statistics exercises and applications
 - [Computer Science - DSA](https://github.com/alvarosf07/computer-science-DSA) -> organized collection of Data Structures and Algorithms coding problems
-- [Computer Science - Projects](https://github.com/alvarosf07/computer-science-projects) -> personal computer science projects/applications (mostly developed during my bachelors/masters)
+- [Computer Science - Projects](https://github.com/alvarosf07/computer-science-projects) -> personal computer science projects/applications
 
 
 
