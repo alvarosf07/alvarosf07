@@ -4,8 +4,12 @@ I'm Álvaro. I work as a Quantitative Researcher at Morgan Stanley. In my free t
 
 Most of my projects have three aims: i) first to keep my mind active by learning about new fields, ii) to practice learned concepts creating coding exercises and applications, and iii) to share my projects with others to help people learn.
 
-This is a brief summary of my repositories:
-- [Astrophysics Almanack](https://github.com/alvarosf07/astrophysics-almanack) -> collection of problems and codes related to astrophysics, orbital mechanics, and rocket science
+Brief summary of my repositories:
+- [Astrophysics Almanack](https://github.com/alvarosf07/astrophysics-almanack) -> non-curated collection of problems and codes related to astrophysics, orbital mechanics, and rocket science
+- [Math, Probability & Statistics](https://github.com/alvarosf07/astrophysics-almanack) -> non-curated collection of math, probability and statistics exercises and applications
+- [Computer Science - DSA](https://github.com/alvarosf07/astrophysics-almanack) -> organized collection of problems and coding exercises about Data Types, Data Structures and Algorithms
+- [Computer Science - Projects](https://github.com/alvarosf07/astrophysics-almanack) -> some personal computer science projects/applications (mostly developed during my bachelors/masters)
+
 
 
 Get in touch: 
