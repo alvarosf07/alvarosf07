@@ -5,7 +5,7 @@ I'm Álvaro. I work as a Quantitative Researcher at Morgan Stanley. In my free t
 Most of my projects have three aims: i) first to keep my mind active by learning about new fields, ii) to practice learned concepts creating coding exercises and applications, and iii) to share my projects with others to help people learn.
 
 This is a brief summary of my repositories:
-- 
+- https://github.com/alvarosf07/astrophysics-almanack -> collection of problems and codes related to astrophysics, orbital mechanics, and rocket science
 
 
 Get in touch: 
