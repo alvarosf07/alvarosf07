@@ -1,6 +1,6 @@
 ### Hi there!
 
-I'm Álvaro. I work as a Quantitative Researcher at Morgan Stanley. In my free time, I love to work on personal projects that lie in the intersection of Math & Statistics, Computer Science/ML, and Finance.
+I'm Álvaro. I work as a Quantitative Researcher at Morgan Stanley. In my free time, I love to work on personal projects that lie in the intersection of Math & Statistics, Computer Science/ML and Finance.
 
 Most of my projects have three aims: i) first to keep my mind active by learning about new fields, ii) to practice learned concepts creating coding exercises and applications, and iii) to share my projects with others to help people learn.
 
