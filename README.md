@@ -2,7 +2,7 @@
 
 I'm Álvaro. I work as a Quantitative Researcher at Morgan Stanley. In my free time, I love to work on personal projects that lie in the intersection of Math, Computer Science/ML and Finance.
 
-Most of my projects have three aims: i) first to keep my mind active by learning about new fields, ii) to practice learned concepts creating coding exercises and applications, and iii) to share my projects with others to help people learn.
+Most of my projects have three aims: i) first to keep my mind active by learning about new fields, ii) to practice learned concepts by creating projects and applications, and iii) to share my projects with others to help people learn.
 
 Brief summary of my repositories:
 - [Math, Probability & Statistics Almanack](https://github.com/alvarosf07/math-probability-statistics-almanack) -> non-curated collection of math, probability and statistics exercises and applications
