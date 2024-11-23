@@ -9,7 +9,7 @@ Brief summary of my repositories:
 - [Astrophysics Almanack](https://github.com/alvarosf07/astrophysics-almanack) -> problems and codes related to astrophysics, orbital mechanics, and rocket science
 - [Computer Science - DSA](https://github.com/alvarosf07/computer-science-DSA) -> organized collection of Data Structures and Algorithms implementations and coding problems
 - [Computer Science - Projects](https://github.com/alvarosf07/computer-science-projects) -> personal computer science applications and projects (mainly in Python, C++ and JAVA)
-- [Quant Finance - Projects](https://github.com/alvarosf07/PyFinPo) -> personal repository for Financial Portfolio Optimization in Python
+- [Quant Finance - PyFinPO](https://github.com/alvarosf07/PyFinPo) -> personal repository for Financial Portfolio Optimization in Python
 
 
 <!--
