@@ -1,6 +1,6 @@
 ### Hi there!
 
-I'm Álvaro. I work as a Quantitative Researcher/Developer at a financial institution. In my free time, I love to work on personal projects that lie in the intersection of Math, Computer Science/ML and Finance.
+I'm Álvaro. I work as a Quantitative Researcher/Developer at a financial institution. In my free time I love to work on personal projects that lie in the intersection of Math, Computer Science/ML and Finance.
 
 Most of my projects have three aims: i) first to keep my mind active by learning about new fields, ii) to practice learned concepts by creating projects and applications, and iii) to share my work with others to help people learn.
 
@@ -9,6 +9,7 @@ Brief summary of my repositories:
 - [Astrophysics Almanack](https://github.com/alvarosf07/astrophysics-almanack) -> problems and codes related to astrophysics, orbital mechanics, and rocket science
 - [Computer Science - DSA](https://github.com/alvarosf07/computer-science-DSA) -> organized collection of Data Structures and Algorithms implementations and coding problems
 - [Computer Science - Projects](https://github.com/alvarosf07/computer-science-projects) -> personal computer science applications and projects (mainly in Python, C++ and JAVA)
+- [Quant Finance - Projects](https://github.com/alvarosf07/PyFinPo) -> personal repository for Financial Portfolio Optimization in Python
 
 
 <!--
