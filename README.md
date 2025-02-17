@@ -5,7 +5,7 @@ I'm Álvaro. I work as a Quantitative Researcher/Developer at a financial instit
 Most of my projects have three aims: i) first to keep my mind active by learning about new fields, ii) to practice learned concepts by creating projects and applications, and iii) to share my work with others to help people learn.
 
 Brief summary of my repositories:
-- [Math, Probability & Statistics Almanack](https://github.com/alvarosf07/math-probability-statistics-almanack) -> non-curated collection of math, probability and statistics exercises and applications
+- [Probability, Statistics & ML Almanack](https://github.com/alvarosf07/math-probability-statistics-almanack) -> non-curated collection of probability, statistics and machine learning exercises and applications
 - [Astrophysics Almanack](https://github.com/alvarosf07/astrophysics-almanack) -> problems and codes related to astrophysics, orbital mechanics, and rocket science
 - [Computer Science - DSA](https://github.com/alvarosf07/computer-science-DSA) -> organized collection of Data Structures and Algorithms implementations and coding problems
 - [Computer Science - Projects](https://github.com/alvarosf07/computer-science-projects) -> personal computer science applications and projects (mainly in Python, C++ and JAVA)
