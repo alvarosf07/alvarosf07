@@ -1,6 +1,6 @@
 ### Hi there!
 
-I'm Álvaro. I work as a Quantitative Researcher/Developer at a financial institution. In my free time I love to work on personal projects that lie in the intersection of Math, Computer Science/ML and Finance.
+I'm Álvaro, and I work as a Quantitative Researcher/Developer at a financial institution. In my (productive) free time I love to work on personal projects that lie in the intersection of Math, Computer Science/ML and Finance.
 
 Most of my projects have three aims: i) first to keep my mind active by learning about new fields, ii) to practice learned concepts by creating projects and applications, and iii) to share my work with others to help people learn.
 
